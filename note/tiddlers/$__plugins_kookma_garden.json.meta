@@ -1,0 +1,11 @@
+author: Mohammad Rahmani
+core-version: >=5.2.3
+dependents: 
+description: Demonstrate, practice and learn Filters and CSS in TiddlyWiki
+list: readme license history
+name: Tiddlywiki Garden
+plugin-type: plugin
+source: https://github.com/kookma/TW-Garden
+title: $:/plugins/kookma/garden
+type: application/json
+version: 1.2.1
