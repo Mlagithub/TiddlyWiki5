@@ -1,6 +1,6 @@
 created: 20230820024803380
 icon: 🐟
-modified: 20230820050153130
+modified: 20230820055410772
 page-cover: https://source.unsplash.com/random
 title: TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -8,6 +8,11 @@ type: text/vnd.tiddlywiki
 !!! ''为什么选择 TiddlyWiki''
 * [[TiddlyWiki 的特点及功能]]
 * 与 [[Notion]] 和 [[Logseq]] 等对比，更符合我的要求
+
+!!! ''配置''
+* 日志模板
+** 通过 
+* 项目管理模板
 
 ---
 !!! ''基本概念''
