@@ -1,0 +1,8 @@
+caption: 隐藏设置：视图模板和编辑模板
+created: 20190704053532718
+modified: 20230820103604196
+tags: 隐藏设置
+title: Hidden Setting: ViewTemplate and EditTemplate
+type: text/vnd.tiddlywiki
+
+配置条目 $:/config/ui/ViewTemplate 和 $:/config/ui/EditTemplate 可分别用于改变在[[故事页面模板|$:/core/ui/PageTemplate/story]]中使用的 ''~ViewTemplate'' 与 ''~EditTemplate'' 

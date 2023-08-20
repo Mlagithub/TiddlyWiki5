@@ -1,0 +1,8 @@
+caption: 隐藏设置：更多中的选项卡为水平方向现
+created: 20221128092648000
+modified: 20230820103604195
+tags: 隐藏设置
+title: Hidden Setting: More Tabs Horizontal
+type: text/vnd.tiddlywiki
+
+设置 $:/config/ui/SideBar/More/horizontal 条目为 ''yes''，调整''更多''中的选项卡为水平方向。

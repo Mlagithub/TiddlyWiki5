@@ -1,0 +1,9 @@
+created: 20230820101259929
+modified: 20230820103258513
+tags: TiddlyWiki
+title: 字段
+type: text/vnd.tiddlywiki
+
+* 全部内核字段清单，[[看这里|https://bramchen.github.io/tw5-docs/zh-Hans/#TiddlerFields]]
+
+* 其中的部分特定字段，用于为个别条目指定外观或行为。它们可以被视为直接控制其所应用的条目的标志或值。

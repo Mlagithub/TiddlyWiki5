@@ -1,0 +1,12 @@
+caption: 隐藏设置：显示每个条目编辑预览
+created: 20211028083211182
+modified: 20230820103604195
+tags: 隐藏设置
+title: Hidden Setting: Show Edit Preview per Tiddler
+type: text/vnd.tiddlywiki
+
+控制[[条目编辑预览|Text preview]]，是否全局控制（默认）或按个别条目为基础控制。
+
+将其设置为 ''yes'' 激活个别条目模式。
+
+$:/config/ShowEditPreview/PerTiddler

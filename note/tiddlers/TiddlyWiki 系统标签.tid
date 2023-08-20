@@ -1,0 +1,24 @@
+created: 20230820104136077
+modified: 20230820104405946
+tags: 标签
+title: TiddlyWiki 系统标签
+type: text/vnd.tiddlywiki
+
+!! 这些是 ~TiddlyWiki 内核定义的系统标签：
+
+<table>
+<tbody>
+<$list filter="[tag[SystemTags]]">
+<tr>
+<td>
+<$macrocall $name="tag" tag={{!!caption}}/>
+</td>
+<td>
+<$link>
+{{!!description}}
+</$link>
+</td>
+</tr>
+</$list>
+</tbody>
+</table>

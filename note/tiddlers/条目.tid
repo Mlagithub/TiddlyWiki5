@@ -1,0 +1,15 @@
+created: 20230820103354746
+modified: 20230820103614524
+tags: TiddlyWiki
+title: 条目
+type: text/vnd.tiddlywiki
+
+某些特定条目标识自定义 TiddlyWiki 的外观或行为的配置条目。它们可以被认为是影响整个维基的全域设置。例如： 
+
+* $:/DefaultTiddlers 是一个筛选器，生成应在启动时显示的条目名称
+* $:/SiteTitle 指定维基标题的文本
+* $:/config/Tags/MinLength 控制触发标签自动完成的最小字符数
+
+此外，还有许多[[隐藏设置]]
+
+

@@ -1,22 +1,25 @@
 created: 20230820024803380
 icon: 🐟
-modified: 20230820055410772
+modified: 20230820103346769
 page-cover: https://source.unsplash.com/random
 title: TiddlyWiki
 type: text/vnd.tiddlywiki
+
+<$list filter="[tag<currentTiddler>]">
+<$link><<currentTiddler>></$link>
+</$list>
+
 
 !!! ''为什么选择 TiddlyWiki''
 * [[TiddlyWiki 的特点及功能]]
 * 与 [[Notion]] 和 [[Logseq]] 等对比，更符合我的要求
 
-!!! ''配置''
-* 日志模板
-** 通过 
-* 项目管理模板
-
 ---
-!!! ''基本概念''
-* 
+!!! ''重要概念''
+* 标签
+* [[条目]]
+* [[字段]]
+* [[级联]]
 
 ---
 !!! ''高级功能''
@@ -41,6 +44,10 @@ type: text/vnd.tiddlywiki
 
 ---
 !!! ''参考内容''
-* [[太微中文教程|https://tw-cn.netlify.app/#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81:%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81]]
-* [[Customization of TW5|http://89.98.117.72/TW5/TW5_custom.html]]
-* [[TiddlyWiki 舞|https://bramchen.github.io/tw5-docs/zh-Hans/#Block%20Mode%20WikiText]]
+* 经典网站
+** [[太微中文教程|https://tw-cn.netlify.app/#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81:%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81]]
+** [[Customization of TW5|http://89.98.117.72/TW5/TW5_custom.html]]
+** [[TiddlyWiki 舞|https://bramchen.github.io/tw5-docs/zh-Hans/#Block%20Mode%20WikiText]]
+
+* 方法技巧
+** [[如何创建一个自定义故事条目模板|https://bramchen.github.io/tw5-docs/zh-Hans/#How%20to%20create%20a%20custom%20story%20tiddler%20template:Cascades%20%5B%5BView%20Template%20Title%20Cascade%5D%5D%20%5B%5BStory%20Tiddler%20Template%20Cascade%5D%5D%20%5B%5BHow%20to%20create%20a%20custom%20story%20tiddler%20template%5D%5D%20%24%3A%2F_tw5.com%2FCustomStoryTiddlerTemplateDemo%2FFilter%20%5B%5BIntroduction%20to%20filter%20notation%5D%5D%20Widgets%20RevealWidget]]

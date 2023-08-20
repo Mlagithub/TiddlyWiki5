@@ -1,0 +1,10 @@
+caption: 隐藏设置：新建图像的类别
+created: 20181108010705878
+modified: 20230820103604195
+tags: 隐藏设置
+title: Hidden Setting: New-Image Type
+type: text/vnd.tiddlywiki
+
+默认情况下，使用图像类型 `jpeg` 创建新图像
+
+$:/config/NewImageType 中的隐藏设置，可以设为另一个图像类别，用于新的图像条目，如 `png`

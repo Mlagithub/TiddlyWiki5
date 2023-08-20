@@ -1,0 +1,17 @@
+created: 20230820070330103
+modified: 20230820074428148
+tags: 
+title: 新条目
+type: text/vnd.tiddlywiki
+
+<$button>
+    <$set name="tags" filter="[<currentTiddler>] [enlist[xxx]]">
+		<$action-createtiddler $message="tm-new-tiddler" tags=<<tags>>>
+		
+		<$action-sendmessage $message="tm-edit-tiddler" $param=<<createTiddler-title>>/>
+		</$action-createtiddler>
+    xxx
+		
+   </$set>
+
+</$button>
