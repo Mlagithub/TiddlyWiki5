@@ -1,0 +1,19 @@
+created: 20230820024803380
+icon: 🐟
+modified: 20230820030726937
+page-cover: https://source.unsplash.com/random
+title: TiddlyWiki
+type: text/vnd.tiddlywiki
+
+!!! ''为什么选择 TiddlyWiki''
+* [[TiddlyWiki 的特点及功能]]
+* 与 [[Notion]] 和 [[Logseq]] 等对比，更符合我的要求
+
+!!! ''基本概念''
+* 
+
+---
+!!! ''参考内容''
+* [[太微中文教程|https://tw-cn.netlify.app/#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81:%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%A4%AA%E5%BE%AE%EF%BC%81]]
+* [[Customization of TW5|http://89.98.117.72/TW5/TW5_custom.html]]
+* [[TiddlyWiki 舞|https://bramchen.github.io/tw5-docs/zh-Hans/#Block%20Mode%20WikiText]]

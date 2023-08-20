@@ -1,0 +1,12 @@
+auto-trigger-input: 1
+auto-trigger-textarea: 1
+caption: 中文状态下时不更改输入法时按方括号
+created: 20230820015717661
+display-filter: [<currentTiddler>]
+filter: [all[tiddlers]!is[system]!is[draft]search:title<query>]
+modified: 20230820020332444
+tags: $:/tags/EC/AutoComplete/Trigger
+template: [[$option$]]$caret$
+title: $:/EvidentlyCube/Trigger/2
+trigger: {{
+type: text/vnd.tiddlywiki

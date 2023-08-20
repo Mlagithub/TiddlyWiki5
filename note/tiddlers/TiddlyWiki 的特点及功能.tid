@@ -1,0 +1,11 @@
+created: 20230820022030437
+modified: 20230820025517805
+tags: TiddlyWiki
+title: TiddlyWiki 的特点及功能
+type: text/vnd.tiddlywiki
+
+* 数据自有（本地文件，[[Github]] 备份）
+* 方便分享（[[Github Page]] 部署）
+* 可自定制（全部内容都可以更改）
+* 可扩展
+* 稳定更新，开发周期很长
