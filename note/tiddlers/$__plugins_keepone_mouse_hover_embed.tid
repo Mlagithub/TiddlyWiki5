@@ -1,0 +1,9 @@
+created: 20230820032528981
+modified: 20230820033552157
+tags: $:/tags/Macro
+title: $:/plugins/keepone/mouse_hover_embed
+type: text/vnd.tiddlywiki
+
+\procedure mhp(name,desc)
+<span style="color:green; border-bottom: 1px dashed; cursor: help;" title="$desc$">$name$</span>
+\end

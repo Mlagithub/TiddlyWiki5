@@ -1,0 +1,14 @@
+created: 20230820033636292
+modified: 20230820042409544
+tags: TiddlyWiki
+title: TranscludeWidget
+type: text/vnd.tiddlywiki
+
+!!! 清单
+<<list-links filter:"[tag[Core Macros]]">>
+
+
+
+!!! ''参考资料''
+* [[官网|https://tiddlywiki.com/static/TranscludeWidget.html]]
+* 

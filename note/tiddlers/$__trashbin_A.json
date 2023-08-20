@@ -1,0 +1,7 @@
+{
+    "created": "20230820044728058",
+    "text": "* Item one\n* <$transclude tiddler=\"B\" mode=\"block\"/>\n* Item two\n* <$transclude tiddler=\"$:/core\" subtiddler=\"$:/DefaultTiddlers\"/>",
+    "tags": "",
+    "title": "A",
+    "modified": "20230820045005340"
+}
