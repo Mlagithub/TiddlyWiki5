@@ -1,0 +1,5 @@
+created: 20230820110712562
+list: $:/core/ui/Buttons/more-tiddler-actions $:/plugins/kookma/utility/ui/Buttons/DraggableLink $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/fold-bar
+modified: 20230820110712562
+title: $:/tags/ViewToolbar
+type: text/vnd.tiddlywiki

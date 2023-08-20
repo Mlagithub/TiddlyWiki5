@@ -1,12 +1,8 @@
 created: 20230820024803380
 icon: 🐟
-modified: 20230820104720005
+modified: 20230820105927846
 title: TiddlyWiki
 type: text/vnd.tiddlywiki
-
-<$list filter="[tag<currentTiddler>]">
-<$link><<currentTiddler>></$link>
-</$list>
 
 
 !!! ''为什么选择 TiddlyWiki''
@@ -15,7 +11,7 @@ type: text/vnd.tiddlywiki
 
 ---
 !!! ''重要概念''
-* 标签
+* [[标签]]
 * [[条目]]
 * [[字段]]
 * [[级联]]
