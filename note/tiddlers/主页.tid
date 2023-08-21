@@ -1,6 +1,6 @@
 created: 20230820005815760
 icon: 🏡
-modified: 20230820085631241
+modified: 20230821143200285
 page-cover: https://source.unsplash.com/random
 tags: 
 title: 主页
@@ -10,11 +10,6 @@ type: text/vnd.tiddlywiki
 inline-search input[type="search"] { border: 2px solid gray !important;border-radius: 4px; }
 </style>
 <inline-search>{{$:/core/ui/AdvancedSearch/Standard}}</inline-search>
-
-
-!!! [[日常生活]]
-
-
 
 
 

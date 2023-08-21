@@ -1,0 +1,29 @@
+created: 20230821124354026
+modified: 20230821142222316
+tags: 
+title: $:/keepone/Buttons/new-journal/Text
+type: text/vnd.tiddlywiki
+
+
+!!!! 今日事 - 今日毕
+* <input type="checkbox" name="vehicle2"> <label for="vehicle2"> 站桩 </label><br>
+* <input type="checkbox" name="vehicle3"> <label for="vehicle3"> SumperMemo </label><br>
+
+<br>
+<br>
+<br>
+
+---
+
+<<interstitial-ui caption:"时间线" width:"20%" base:"journal">>
+
+<br>
+<br>
+<br>
+
+---
+!!! 每日小结
+* 
+* 
+* 
+

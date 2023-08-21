@@ -1,0 +1,5 @@
+created: 20230821133857815
+list: $:/core/ui/Buttons/home $:/keepone/Buttons/new-journal $:/core/ui/Buttons/close-all $:/core/ui/Buttons/fold-all $:/core/ui/Buttons/unfold-all $:/core/ui/Buttons/permaview $:/core/ui/Buttons/new-tiddler $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/new-image $:/core/ui/Buttons/import $:/core/ui/Buttons/export-page $:/core/ui/Buttons/advanced-search $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/theme $:/core/ui/Buttons/layout $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/refresh $:/core/ui/Buttons/network-activity $:/plugins/kookma/utility/ui/Buttons/ViewFields $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/more-page-actions
+modified: 20230821143058438
+title: $:/tags/PageControls
+type: text/vnd.tiddlywiki

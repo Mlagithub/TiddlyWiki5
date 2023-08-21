@@ -1,0 +1,19 @@
+created: 20230821123939747
+description: create a new journal tiddler
+modified: 20230821135524622
+tags: $:/tags/Actions
+title: $:/keepone/Actions/new-journal
+type: text/vnd.tiddlywiki
+
+\define get-tags() $(textFieldTags)$ $(tagsFieldTags)$
+\whitespace trim
+<$vars journalTitleTemplate={{$:/keepone/Buttons/new-journal/Title}} textFieldTags={{$:/keepone/Buttons/new-journal/Tags}} tagsFieldTags={{$:/keepone/Buttons/new-journal/Tags!!tags}} journalText={{$:/keepone/Buttons/new-journal/Text}}>
+<$wikify name="journalTitle" text="<$macrocall $name='now' format=<<journalTitleTemplate>>/>">
+<$reveal type="nomatch" state=<<journalTitle>> text="">
+<$action-sendmessage $message="tm-new-tiddler" title=<<journalTitle>> tags=<<get-tags>> text={{{ [<journalTitle>get[]] }}}/>
+</$reveal>
+<$reveal type="match" state=<<journalTitle>> text="">
+<$action-sendmessage $message="tm-new-tiddler" title=<<journalTitle>> tags=<<get-tags>> text=<<journalText>> 呼吸长短="" 呼吸粗细="" 呼吸匀乱="" 时长="30" 体验="" 日复盘=""/>
+</$reveal>
+</$wikify>
+</$vars>
